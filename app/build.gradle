@@ -63,6 +63,7 @@ dependencies {
     compile 'me.relex:circleindicator:1.2.2@aar'
 
     compile 'com.facebook.fresco:fresco:0.12.0'
+    compile 'com.commit451:PhotoView:1.2.5'
 
     compile 'io.reactivex:rxjava:1.2.3'
 
